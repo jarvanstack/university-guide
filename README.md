@@ -1,4 +1,4 @@
-## doc-template
+## university-guide
 
 docstify 文档模板
 
